@@ -1,0 +1,3 @@
+Trying to learn git in details
+we have three types of version control system
+1. Local version control system
